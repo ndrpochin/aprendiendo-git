@@ -4,6 +4,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#otro{
+#otro {
     font-weight: 100;
+}
+
+/*style exclusivo para master*/
+
+.h1 {
+    color: aqua;
 }
