@@ -1,1 +1,2 @@
 Este archivo de ayuda es simplemente para probar el temita de las ramas.
+#ya fue linkeado desde el index, y me olvide de agregar este cambio al commit, voy a hacer un ammend para practicar
